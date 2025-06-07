@@ -172,3 +172,5 @@ BOT: Goodbye! Take care.
 * Must include basic NLP operations (tokenization, lemmatization, similarity)
 * Clean, readable, and well-documented code
 
+# Output
+![Image](https://github.com/user-attachments/assets/d6256891-f2da-430c-be9b-cd41ce37eb08)
