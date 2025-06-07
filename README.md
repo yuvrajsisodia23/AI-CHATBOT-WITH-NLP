@@ -10,7 +10,6 @@ DURATION: 4 WEEEKS
 
 MENTOR: NEELA SANTOSH
 
-Sure! Here's the **README description for Task 3 (AI Chatbot with NLP)** without any emojis:
 
 ---
 
